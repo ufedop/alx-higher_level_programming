@@ -1,1 +1,1 @@
-Doubly linked lists
+Python Doubly linked lists
